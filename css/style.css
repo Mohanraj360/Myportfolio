@@ -63,6 +63,9 @@
   }
   
   /* Jumbotron  */
+  
+  
+
   .jumbotron {
     background-image: url(../images/bck2.jpg);
     background-size: cover;
@@ -207,8 +210,71 @@
   .text1 p {
     font-size: 15px;
   }
+  .row1 {
+    background-image: url(../images/bck4.png);
+    padding: 25px;
+    height: 200px;
+    width: 1400px;
+    margin-bottom: 25px;
+  }
   
+  .text1 {
+    text-align: left;
+    margin-left: 20%;
+    margin-top: -12%;
+    color: var(--text2);
+  }
+  .text1 h3 {
+    font-size: 30px;
+    margin-bottom: 15px;
+  }
+  .text1 p {
+    font-size: 15px;
+  }
   .row2 {
+    background-image: url(../images/bck4.png);
+    padding: 25px;
+    height: 200px;
+    width: 1400px;
+    margin-bottom: 25px;
+  }
+  
+  .text1 {
+    text-align: left;
+    margin-left: 20%;
+    margin-top: -12%;
+    color: var(--text2);
+  }
+  .text1 h3 {
+    font-size: 30px;
+    margin-bottom: 15px;
+  }
+  .text1 p {
+    font-size: 15px;
+  }
+  .row3 {
+    background-image: url(../images/bck4.png);
+    padding: 25px;
+    height: 200px;
+    width: 1400px;
+    margin-bottom: 25px;
+  
+  }
+  
+  .text2 { 
+    text-align: left;
+    margin-left: 20%;
+    margin-top: -12%;
+    color: var(--text2);
+  }
+  .text2 h3 {
+    font-size: 30px;
+    margin-bottom: 15px;
+  }
+  .text2 p {
+    font-size: 15px;
+  }
+  .row4 {
     background-image: url(../images/bck4.png);
     padding: 25px;
     height: 200px;
@@ -231,8 +297,7 @@
     font-size: 15px;
   }
   
-  
-  .row3 {
+  .row5 {
     background-image: url(../images/bck4.png);
     padding: 25px;
     height: 200px;
@@ -259,6 +324,35 @@
     background-color: #FFB6C1;
     color: black;
   }
+  .row6 {
+    background-image: url(../images/bck4.png);
+    padding: 25px;
+    height: 200px;
+    width: 1400px;
+    margin-bottom: 25px;
+  
+  }
+  
+  .text3 { 
+    text-align: left;
+    margin-left: 20%;
+    margin-top: -12%;
+    color: var(--text2);
+  }
+  .text3 h3 {
+    font-size: 30px;
+    margin-bottom: 15px;
+  }
+  .text3 p {
+    font-size: 15px;
+  }
+  
+  .btn {
+    background-color: #FFB6C1;
+    color: black;
+  }
+
+  
 
   /*Contact*/
   .sectionHeading3 {
